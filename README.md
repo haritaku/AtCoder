@@ -7,7 +7,7 @@
 - [ ] 001 Yokan Party（★4）
 - [ ] 002 Encyclopedia of Parentheses（★3）
 - [ ] 003 Longest Circular Road（★4）
-- [ ] 004 Cross Sum（★2）
+- [x] 004 Cross Sum（★2）
 - [ ] 005 Restricted Digits（★7）
 - [ ] 006 Smallest Subsequence（★5）
 - [ ] 007 CP Classes（★3）

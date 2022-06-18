@@ -29,7 +29,9 @@
       "title": "Cross Sum（★2）",
       "url": "https://atcoder.jp/contests/typical90/tasks/typical90_d",
       "directory": {
-        "path": "004"
+        "path": "004",
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
