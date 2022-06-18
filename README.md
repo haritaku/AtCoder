@@ -2,7 +2,7 @@
 
 競プロ典型90問を解く！
 
-2022/06/19 1/90
+2022/06/19 2/90
 
 - [ ] 001 Yokan Party（★4）
 - [ ] 002 Encyclopedia of Parentheses（★3）
@@ -13,7 +13,7 @@
 - [ ] 007 CP Classes（★3）
 - [ ] 008 AtCounter（★4）
 - [ ] 009 Three Point Angle（★6）
-- [ ] 010 Score Sum Queries（★2）
+- [x] 010 Score Sum Queries（★2）
 - [ ] 011 Gravy Jobs（★6）
 - [ ] 012 Red Painting（★4）
 - [ ] 013 Passing（★5）
