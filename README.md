@@ -2,7 +2,7 @@
 
 競プロ典型90問を解く！
 
-2022/06/19 0/90
+2022/06/19 1/90
 
 - [ ] 001 Yokan Party（★4）
 - [ ] 002 Encyclopedia of Parentheses（★3）
