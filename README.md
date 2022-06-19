@@ -2,7 +2,7 @@
 
 競プロ典型90問を解く！
 
-2022/06/19 9/90
+2022/06/19 10/90
 
 - [ ] 001 Yokan Party（★4）
 - [ ] 002 Encyclopedia of Parentheses（★3）
@@ -81,7 +81,7 @@
 - [ ] 075 Magic For Balls（★3）
 - [ ] 076 Cake Cut（★3）
 - [ ] 077 Planes on a 2D Plane（★7）
-- [ ] 078 Easy Graph Problem（★2）
+- [x] 078 Easy Graph Problem（★2）
 - [ ] 079 Two by Two（★3）
 - [ ] 080 Let's Share Bit（★6）
 - [ ] 081 Friendly Group（★5）
