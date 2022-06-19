@@ -2,7 +2,7 @@
 
 競プロ典型90問を解く！
 
-2022/06/19 4/90
+2022/06/19 5/90
 
 - [ ] 001 Yokan Party（★4）
 - [ ] 002 Encyclopedia of Parentheses（★3）
@@ -30,7 +30,7 @@
 - [x] 024 Select +／- One（★2）
 - [ ] 025 Digit Product Equation（★7）
 - [ ] 026 Independent Set on a Tree（★4）
-- [ ] 027 Sign Up Requests （★2）
+- [x] 027 Sign Up Requests （★2）
 - [ ] 028 Cluttered Paper（★4）
 - [ ] 029 Long Bricks（★5）
 - [ ] 030 K Factors（★5）

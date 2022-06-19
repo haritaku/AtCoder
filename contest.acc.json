@@ -185,7 +185,12 @@
       "id": "typical90_aa",
       "label": "027",
       "title": "Sign Up Requests （★2）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_aa"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_aa",
+      "directory": {
+        "path": "027",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "typical90_ab",
