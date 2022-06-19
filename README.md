@@ -2,7 +2,7 @@
 
 競プロ典型90問を解く！
 
-2022/06/19 7/90
+2022/06/19 8/90
 
 - [ ] 001 Yokan Party（★4）
 - [ ] 002 Encyclopedia of Parentheses（★3）
@@ -70,7 +70,7 @@
 - [ ] 064 Uplift（★3）
 - [ ] 065 RGB Balls 2（★7）
 - [ ] 066 Various Arrays（★5）
-- [ ] 067 Base 8 to 9（★2）
+- [x] 067 Base 8 to 9（★2）
 - [ ] 068 Paired Information（★5）
 - [ ] 069 Colorful Blocks 2（★3）
 - [ ] 070 Plant Planning（★4）
