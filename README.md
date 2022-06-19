@@ -2,7 +2,7 @@
 
 競プロ典型90問を解く！
 
-2022/06/19 6/90
+2022/06/19 7/90
 
 - [ ] 001 Yokan Party（★4）
 - [ ] 002 Encyclopedia of Parentheses（★3）
@@ -58,7 +58,7 @@
 - [ ] 052 Dice Product（★3）
 - [ ] 053 Discrete Dowsing（★7）
 - [ ] 054 Takahashi Number（★6）
-- [ ] 055 Select 5（★2）
+- [x] 055 Select 5（★2）
 - [ ] 056 Lucky Bag（★5）
 - [ ] 057 Flip Flap（★6）
 - [ ] 058 Original Calculator（★4）
