@@ -2,7 +2,7 @@
 
 競プロ典型90問を解く！
 
-2022/06/19 3/90
+2022/06/19 4/90
 
 - [ ] 001 Yokan Party（★4）
 - [ ] 002 Encyclopedia of Parentheses（★3）
@@ -27,7 +27,7 @@
 - [ ] 021 Come Back in One Piece（★5）
 - [x] 022 Cubic Cake（★2）
 - [ ] 023 Avoid War（★7）
-- [ ] 024 Select +／- One（★2）
+- [x] 024 Select +／- One（★2）
 - [ ] 025 Digit Product Equation（★7）
 - [ ] 026 Independent Set on a Tree（★4）
 - [ ] 027 Sign Up Requests （★2）

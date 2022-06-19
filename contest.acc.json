@@ -162,7 +162,12 @@
       "id": "typical90_x",
       "label": "024",
       "title": "Select +／- One（★2）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_x"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_x",
+      "directory": {
+        "path": "024",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "typical90_y",
