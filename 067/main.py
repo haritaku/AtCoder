@@ -1,18 +1,7 @@
 import sys
 
-input = sys.stdin.readline
 
-N, K = list(map(int, input().split()))
-
-
-def eight2ten(N: str) -> int:
-    ten = 0
-    for i, s in enumerate(reversed(N)):
-        ten += int(s) * 8**i
-    return ten
-
-
-def ten2nine(N: int) -> str:
+def deca2nona(N: int) -> str:
     nine = ""
     r = N
     while r:
@@ -21,10 +10,11 @@ def ten2nine(N: int) -> str:
     return nine if nine != "" else "0"
 
 
-eight = str(N)
+input = sys.stdin.readline
+N, K = list(map(int, input().split()))
+
+octa = str(N)
 for _ in range(K):
-    nine = ten2nine(eight2ten(eight))
-    eight = nine.replace("8", "5")
-
-
-print(eight)
+    nona = deca2nona(int(octa, 8))
+    octa = nona.replace("8", "5")
+print(octa)
