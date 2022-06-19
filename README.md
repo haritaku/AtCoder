@@ -2,7 +2,7 @@
 
 競プロ典型90問を解く！
 
-2022/06/19 8/90
+2022/06/19 9/90
 
 - [ ] 001 Yokan Party（★4）
 - [ ] 002 Encyclopedia of Parentheses（★3）
@@ -64,7 +64,7 @@
 - [ ] 058 Original Calculator（★4）
 - [ ] 059 Many Graph Queries（★7）
 - [ ] 060 Chimera（★5）
-- [ ] 061 Deck（★2）
+- [x] 061 Deck（★2）
 - [ ] 062 Paint All（★6）
 - [ ] 063 Monochromatic Subgrid（★4）
 - [ ] 064 Uplift（★3）
