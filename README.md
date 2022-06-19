@@ -2,7 +2,7 @@
 
 競プロ典型90問を解く！
 
-2022/06/19 5/90
+2022/06/19 6/90
 
 - [ ] 001 Yokan Party（★4）
 - [ ] 002 Encyclopedia of Parentheses（★3）
@@ -36,7 +36,7 @@
 - [ ] 030 K Factors（★5）
 - [ ] 031 VS AtCoder（★6）
 - [ ] 032 AtCoder Ekiden（★3）
-- [ ] 033 Not Too Bright（★2）
+- [x] 033 Not Too Bright（★2）
 - [ ] 034 There are few types of elements（★4）
 - [ ] 035 Preserve Connectivity（★7）
 - [ ] 036 Max Manhattan Distance（★5）
