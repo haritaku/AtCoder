@@ -1,5 +1,5 @@
 import sys
-from itertools import accumulate
+from itertools import product
 
 input = sys.stdin.readline
 
@@ -9,19 +9,7 @@ if N % 2 == 1:
     print()
     exit()
 
-ans = []
-for bin_ in range(1 << N):
-
-    s = ""
-    for i in range(N):
-        if bin_ >> i & 1:
-            s += "("
-        else:
-            s += ")"
-
-    if s.count("(") != s.count(")"):
-        continue
-
+for s in product(("(", ")"), repeat=N):
     score = 0
     for c in s:
         if c == "(":
@@ -32,8 +20,4 @@ for bin_ in range(1 << N):
         if score < 0:
             break
     if score == 0:
-        ans.append(s)
-
-ans.sort()
-
-print(*ans, sep="\n")
+        print(*s, sep="")
