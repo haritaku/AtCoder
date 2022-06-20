@@ -10,7 +10,7 @@
 | 配点      | 1点   | 2点      | 3点      | 4点       | 5点        | 6点        | 7点    |
 | レーティング帯 | ～149 | 150～399 | 400～799 | 800～1199 | 1200～1599 | 1600～1999 | 2000～ |
 
-2022/06/20 11/90
+2022/06/20 12/90
 
 - [ ] 001 Yokan Party（★4）
 - [x] 002 Encyclopedia of Parentheses（★3）
@@ -18,7 +18,7 @@
 - [x] 004 Cross Sum（★2）
 - [ ] 005 Restricted Digits（★7）
 - [ ] 006 Smallest Subsequence（★5）
-- [ ] 007 CP Classes（★3）
+- [x] 007 CP Classes（★3）
 - [ ] 008 AtCounter（★4）
 - [ ] 009 Three Point Angle（★6）
 - [x] 010 Score Sum Queries（★2）
