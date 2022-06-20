@@ -10,10 +10,10 @@
 | 配点      | 1点   | 2点      | 3点      | 4点       | 5点        | 6点        | 7点    |
 | レーティング帯 | ～149 | 150～399 | 400～799 | 800～1199 | 1200～1599 | 1600～1999 | 2000～ |
 
-2022/06/19 10/90
+2022/06/20 11/90
 
 - [ ] 001 Yokan Party（★4）
-- [ ] 002 Encyclopedia of Parentheses（★3）
+- [x] 002 Encyclopedia of Parentheses（★3）
 - [ ] 003 Longest Circular Road（★4）
 - [x] 004 Cross Sum（★2）
 - [ ] 005 Restricted Digits（★7）
