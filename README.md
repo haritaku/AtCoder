@@ -16,7 +16,7 @@
 | Abbr              | Command                                            |
 | ----------------- | -------------------------------------------------- |
 | atc-login         | `oj login <https://atcoder.jp>; and acc login`     |
-| atc-new           | `acc new --choice all --template python'`          |
+| atc-new           | `acc new --choice all --template python`           |
 | atc-test-pypy     | `oj t -c "pypy main.py"`                           |
 | atc-test-python   | `oj t -c "python main.py"`                         |
 | atc-submit-pypy   | `acc s main.py -- --guess-python-interpreter pypy` |
