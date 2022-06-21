@@ -13,7 +13,7 @@
 
 よく利用するコマンド
 
-| Abbr              | command                                            |
+| Abbr              | Command                                            |
 | ----------------- | -------------------------------------------------- |
 | atc-login         | `oj login <https://atcoder.jp>; and acc login`     |
 | atc-new           | `acc new --choice all  --template python'`         |
