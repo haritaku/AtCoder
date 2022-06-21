@@ -1,4 +1,9 @@
 test
+.venv
+
+# Enviroment files
+.envrc
+.python-version
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
