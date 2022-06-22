@@ -124,7 +124,12 @@
       "id": "typical90_p",
       "label": "016",
       "title": "Minimum Coins（★3）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_p"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_p",
+      "directory": {
+        "path": "016",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "typical90_q",
