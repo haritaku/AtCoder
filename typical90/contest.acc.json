@@ -107,7 +107,12 @@
       "id": "typical90_n",
       "label": "014",
       "title": "We Used to Sing a Song Together（★3）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_n"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_n",
+      "directory": {
+        "path": "014",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "typical90_o",

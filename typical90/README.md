@@ -10,7 +10,7 @@
 | 配点      | 1点   | 2点      | 3点      | 4点       | 5点        | 6点        | 7点    |
 | レーティング帯 | ～149 | 150～399 | 400～799 | 800～1199 | 1200～1599 | 1600～1999 | 2000～ |
 
-2022/06/20 12/90
+2022/06/22 13/90
 
 - [ ] 001 Yokan Party（★4）
 - [x] 002 Encyclopedia of Parentheses（★3）
@@ -25,7 +25,7 @@
 - [ ] 011 Gravy Jobs（★6）
 - [ ] 012 Red Painting（★4）
 - [ ] 013 Passing（★5）
-- [ ] 014 We Used to Sing a Song Together（★3）
+- [x] 014 We Used to Sing a Song Together（★3）
 - [ ] 015 Don't be too close（★6）
 - [ ] 016 Minimum Coins（★3）
 - [ ] 017 Crossing Segments（★7）
