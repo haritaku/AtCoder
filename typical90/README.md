@@ -9,7 +9,7 @@
 | -------------- | ---- | ------- | ------- | -------- | --------- | --------- | ----- |
 | rating         | ~149 | 150~399 | 400~799 | 800~1199 | 1200~1599 | 1600~1999 | 2000~ |
 
-2022/06/26 16/90
+2022/06/26 17/90
 
 - [ ] 001 Yokan Party（★4）
 - [x] 002 Encyclopedia of Parentheses（★3）
@@ -42,7 +42,7 @@
 - [ ] 029 Long Bricks（★5）
 - [ ] 030 K Factors（★5）
 - [ ] 031 VS AtCoder（★6）
-- [ ] 032 AtCoder Ekiden（★3）
+- [x] 032 AtCoder Ekiden（★3）
 - [x] 033 Not Too Bright（★2）
 - [ ] 034 There are few types of elements（★4）
 - [ ] 035 Preserve Connectivity（★7）
