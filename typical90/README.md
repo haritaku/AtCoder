@@ -9,7 +9,7 @@
 | -------------- | ---- | ------- | ------- | -------- | --------- | --------- | ----- |
 | rating         | ~149 | 150~399 | 400~799 | 800~1199 | 1200~1599 | 1600~1999 | 2000~ |
 
-2022/06/26 15/90
+2022/06/26 16/90
 
 - [ ] 001 Yokan Party（★4）
 - [x] 002 Encyclopedia of Parentheses（★3）
@@ -30,7 +30,7 @@
 - [ ] 017 Crossing Segments（★7）
 - [x] 018 Statue of Chokudai（★3）
 - [ ] 019 Pick Two（★6）
-- [ ] 020 Log Inequality（★3）
+- [x] 020 Log Inequality（★3）
 - [ ] 021 Come Back in One Piece（★5）
 - [x] 022 Cubic Cake（★2）
 - [ ] 023 Avoid War（★7）
