@@ -48,7 +48,7 @@
 - [ ] 035 Preserve Connectivity（★7）
 - [ ] 036 Max Manhattan Distance（★5）
 - [ ] 037 Don't Leave the Spice（★5）
-- [ ] 038 Large LCM（★3）
+- [x] 038 Large LCM（★3）
 - [ ] 039 Tree Distance（★5）
 - [ ] 040 Get More Money（★7）
 - [ ] 041 Piles in AtCoder Farm（★7）

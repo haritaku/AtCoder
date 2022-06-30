@@ -296,7 +296,12 @@
       "id": "typical90_al",
       "label": "038",
       "title": "Large LCM（★3）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_al"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_al",
+      "directory": {
+        "path": "038",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "typical90_am",
