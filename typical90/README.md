@@ -9,7 +9,7 @@
 | -------------- | ---- | ------- | ------- | -------- | --------- | --------- | ----- |
 | rating         | ~149 | 150~399 | 400~799 | 800~1199 | 1200~1599 | 1600~1999 | 2000~ |
 
-2022/06/26 17/90
+2022/06/30 19/90
 
 - [ ] 001 Yokan Party（★4）
 - [x] 002 Encyclopedia of Parentheses（★3）
@@ -54,7 +54,7 @@
 - [ ] 041 Piles in AtCoder Farm（★7）
 - [ ] 042 Multiple of 9（★4）
 - [ ] 043 Maze Challenge with Lack of Sleep（★4）
-- [ ] 044 Shift and Swapping（★3）
+- [x] 044 Shift and Swapping（★3）
 - [ ] 045 Simple Grouping（★6）
 - [ ] 046 I Love 46（★3）
 - [ ] 047 Monochromatic Diagonal（★7）

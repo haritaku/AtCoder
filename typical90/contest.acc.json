@@ -337,7 +337,12 @@
       "id": "typical90_ar",
       "label": "044",
       "title": "Shift and Swapping（★3）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ar"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ar",
+      "directory": {
+        "path": "044",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "typical90_as",
