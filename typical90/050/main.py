@@ -1,15 +1,18 @@
 import sys
-from math import comb
 
 input = sys.stdin.readline
 
 N, L = list(map(int, input().split()))
 
-n_L = N // L
+dp = [None] * (N + 1)
 
-ans = 0
-for cnt_L in range(0, n_L + 1):
-    cnt_1 = N - L * cnt_L
-    ans += comb(cnt_L + cnt_1, cnt_1)
+for i in range(N + 1):
+    if i == 0:
+        dp[0] = 1
+        continue
 
-print(ans % (10**9 + 7))
+    dp[i] = dp[i - 1]
+    if i - L >= 0:
+        dp[i] += dp[i - L]
+
+print(dp[N] % (10**9 + 7))
