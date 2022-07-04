@@ -1,0 +1,12 @@
+{
+	"Create list of int input": {
+		"scope": "python",
+		"prefix": "LI",
+		"body": "list(map(int, input().split()))"
+	},
+	"Create list of float input": {
+		"scope": "python",
+		"prefix": "LF",
+		"body": "list(map(int, input().split()))"
+	}
+}
