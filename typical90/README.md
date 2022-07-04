@@ -9,7 +9,7 @@
 | -------------- | ---- | ------- | ------- | -------- | --------- | --------- | ----- |
 | rating         | ~149 | 150~399 | 400~799 | 800~1199 | 1200~1599 | 1600~1999 | 2000~ |
 
-2022/06/30 20/90
+2022/06/30 21/90
 
 - [ ] 001 Yokan Party（★4）
 - [x] 002 Encyclopedia of Parentheses（★3）
@@ -56,7 +56,7 @@
 - [ ] 043 Maze Challenge with Lack of Sleep（★4）
 - [x] 044 Shift and Swapping（★3）
 - [x] 045 Simple Grouping（★6）
-- [ ] 046 I Love 46（★3）
+- [x] 046 I Love 46（★3）
 - [ ] 047 Monochromatic Diagonal（★7）
 - [ ] 048 I will not drop out（★3）
 - [ ] 049 Flip Digits 2（★6）
