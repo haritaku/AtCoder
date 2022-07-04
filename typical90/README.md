@@ -60,7 +60,7 @@
 - [ ] 047 Monochromatic Diagonal（★7）
 - [x] 048 I will not drop out（★3）
 - [ ] 049 Flip Digits 2（★6）
-- [ ] 050 Stair Jump（★3）
+- [x] 050 Stair Jump（★3）
 - [ ] 051 Typical Shop（★5）
 - [ ] 052 Dice Product（★3）
 - [ ] 053 Discrete Dowsing（★7）
