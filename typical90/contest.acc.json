@@ -405,7 +405,12 @@
       "id": "typical90_az",
       "label": "052",
       "title": "Dice Product（★3）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_az"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_az",
+      "directory": {
+        "path": "052",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "typical90_ba",

@@ -9,7 +9,7 @@
 | -------------- | ---- | ------- | ------- | -------- | --------- | --------- | ----- |
 | rating         | ~149 | 150~399 | 400~799 | 800~1199 | 1200~1599 | 1600~1999 | 2000~ |
 
-2022/06/30 23/90
+2022/07/05 24/90
 
 - [ ] 001 Yokan Party（★4）
 - [x] 002 Encyclopedia of Parentheses（★3）
@@ -62,7 +62,7 @@
 - [ ] 049 Flip Digits 2（★6）
 - [x] 050 Stair Jump（★3）
 - [ ] 051 Typical Shop（★5）
-- [ ] 052 Dice Product（★3）
+- [x] 052 Dice Product（★3）
 - [ ] 053 Discrete Dowsing（★7）
 - [ ] 054 Takahashi Number（★6）
 - [x] 055 Select 5（★2）
