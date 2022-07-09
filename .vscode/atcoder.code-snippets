@@ -7,6 +7,6 @@
 	"Create list of float input": {
 		"scope": "python",
 		"prefix": "LF",
-		"body": "list(map(int, input().split()))"
+		"body": "list(map(float, input().split()))"
 	}
 }
