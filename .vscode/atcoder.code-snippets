@@ -1,12 +1,22 @@
 {
-	"Create list of int input": {
+	"list of int input": {
 		"scope": "python",
 		"prefix": "LI",
 		"body": "list(map(int, input().split()))"
 	},
-	"Create list of float input": {
+	"list of float input": {
 		"scope": "python",
 		"prefix": "LF",
 		"body": "list(map(float, input().split()))"
-	}
+	},
+	"str input": {
+		"scope": "python",
+		"prefix": "SI",
+		"body": "input().rstrip()"
+	},
+	"INF": {
+		"scope": "python",
+		"prefix": "INF",
+		"body": "INF = 10 ** 18"
+	},
 }
