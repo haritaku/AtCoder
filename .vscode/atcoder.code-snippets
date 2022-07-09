@@ -4,10 +4,20 @@
 		"prefix": "LI",
 		"body": "list(map(int, input().split()))"
 	},
+	"map of int input": {
+		"scope": "python",
+		"prefix": "MI",
+		"body": "map(int, input().split())"
+	},
 	"list of float input": {
 		"scope": "python",
 		"prefix": "LF",
 		"body": "list(map(float, input().split()))"
+	},
+	"map of float input": {
+		"scope": "python",
+		"prefix": "MF",
+		"body": "map(float, input().split())"
 	},
 	"str input": {
 		"scope": "python",
