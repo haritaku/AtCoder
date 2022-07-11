@@ -1,0 +1,50 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "sample1-debug",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": ["<", "${fileDirname}/test/sample-1.in"]
+        },
+        {
+            "name": "sample2-debug",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": ["<", "${fileDirname}/test/sample-2.in"]
+        },
+        {
+            "name": "sample3-debug",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": ["<", "${fileDirname}/test/sample-3.in"]
+        },
+        {
+            "name": "sample4-debug",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": ["<", "${fileDirname}/test/sample-4.in"]
+        },
+        {
+            "name": "sample5-debug",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": ["<", "${fileDirname}/test/sample-5.in"]
+        }
+    ]
+}
