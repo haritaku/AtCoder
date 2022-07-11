@@ -74,7 +74,7 @@
 - [x] 061 Deck（★2）
 - [ ] 062 Paint All（★6）
 - [ ] 063 Monochromatic Subgrid（★4）
-- [ ] 064 Uplift（★3）
+- [x] 064 Uplift（★3）
 - [ ] 065 RGB Balls 2（★7）
 - [ ] 066 Various Arrays（★5）
 - [x] 067 Base 8 to 9（★2）
