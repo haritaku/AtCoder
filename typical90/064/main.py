@@ -8,11 +8,11 @@ LRV = [list(map(int, input().split())) for _ in range(Q)]
 
 
 B = []
-for i in range(N):
-    if i == 0:
-        continue
-    B.append(A[i] - A[i - 1])
-ans = sum(map(abs, B))
+ans = 0
+for i in range(N - 1):
+    diff = A[i + 1] - A[i]
+    B.append(diff)
+    ans += abs(diff)
 
 for l, r, v in LRV:
     before, after = 0, 0
