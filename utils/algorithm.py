@@ -7,7 +7,7 @@ def rle(string):
 
     rle_list = []
     for k, group in groupby(string):
-        rle_list.append((k, len(tuple(group))))
+        rle_list.append((k, sum(1 for _ in group)))
     return rle_list
 
 
