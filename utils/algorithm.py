@@ -1,5 +1,17 @@
 from collections import defaultdict
 from itertools import groupby
+from math import ceil, sqrt
+
+
+def prime_factorization(x):
+    primes = []
+    for i in range(2, ceil(sqrt(x)) + 1):
+        while x % i == 0:
+            primes.append(i)
+            x //= i
+    if x != 1:
+        primes.append(x)
+    return primes
 
 
 def rle(string):
