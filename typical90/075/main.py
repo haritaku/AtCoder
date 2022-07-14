@@ -8,7 +8,7 @@ N = int(input())
 
 def prime_factorization(x):
     primes = []
-    for i in range(2, ceil(sqrt(x)) + 1):
+    for i in range(2, int(sqrt(x)) + 1):
         while x % i == 0:
             primes.append(i)
             x //= i

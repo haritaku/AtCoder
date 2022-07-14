@@ -1,11 +1,21 @@
 from collections import defaultdict
 from itertools import groupby
-from math import ceil, sqrt
+from math import sqrt
+
+
+def is_prime(x):
+    if x == 1:
+        return False
+
+    for i in range(2, int(sqrt(x)) + 1):
+        if x % i == 0:
+            return False
+    return True
 
 
 def prime_factorization(x):
     primes = []
-    for i in range(2, ceil(sqrt(x)) + 1):
+    for i in range(2, int(sqrt(x)) + 1):
         while x % i == 0:
             primes.append(i)
             x //= i
