@@ -85,7 +85,7 @@
 - [ ] 072 Loop Railway Plan（★4）
 - [ ] 073 We Need Both a and b（★5）
 - [ ] 074 ABC String 2（★6）
-- [ ] 075 Magic For Balls（★3）
+- [x] 075 Magic For Balls（★3）
 - [ ] 076 Cake Cut（★3）
 - [ ] 077 Planes on a 2D Plane（★7）
 - [x] 078 Easy Graph Problem（★2）
