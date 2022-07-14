@@ -9,7 +9,7 @@
 | -------------- | ---- | ------- | ------- | -------- | --------- | --------- | ----- |
 | rating         | ~149 | 150~399 | 400~799 | 800~1199 | 1200~1599 | 1600~1999 | 2000~ |
 
-2022/07/11 25/90
+2022/07/12 25/90
 
 - [ ] 001 Yokan Party（★4）
 - [x] 002 Encyclopedia of Parentheses（★3）
@@ -79,7 +79,7 @@
 - [ ] 066 Various Arrays（★5）
 - [x] 067 Base 8 to 9（★2）
 - [ ] 068 Paired Information（★5）
-- [ ] 069 Colorful Blocks 2（★3）
+- [x] 069 Colorful Blocks 2（★3）
 - [ ] 070 Plant Planning（★4）
 - [ ] 071 Fuzzy Priority（★7）
 - [ ] 072 Loop Railway Plan（★4）
