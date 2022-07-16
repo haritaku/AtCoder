@@ -29,4 +29,9 @@
 		"prefix": "INF",
 		"body": "INF = 10 ** 18"
 	},
+	"MOD": {
+		"scope": "python",
+		"prefix": "MOD",
+		"body": "MOD = 10**9 + 7"
+	},
 }
