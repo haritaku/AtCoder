@@ -635,7 +635,12 @@
       "id": "typical90_cd",
       "label": "082",
       "title": "Counting Numbers（★3）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_cd"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_cd",
+      "directory": {
+        "path": "082",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "typical90_ce",

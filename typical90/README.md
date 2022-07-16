@@ -9,7 +9,7 @@
 | -------------- | ---- | ------- | ------- | -------- | --------- | --------- | ----- |
 | rating         | ~149 | 150~399 | 400~799 | 800~1199 | 1200~1599 | 1600~1999 | 2000~ |
 
-2022/07/16 29/90
+2022/07/16 30/90
 
 - [ ] 001 Yokan Party（★4）
 - [x] 002 Encyclopedia of Parentheses（★3）
@@ -92,7 +92,7 @@
 - [x] 079 Two by Two（★3）
 - [ ] 080 Let's Share Bit（★6）
 - [ ] 081 Friendly Group（★5）
-- [ ] 082 Counting Numbers（★3）
+- [x] 082 Counting Numbers（★3）
 - [ ] 083 Colorful Graph（★6）
 - [ ] 084 There are two types of characters（★3）
 - [ ] 085 Multiplication 085（★4）
