@@ -9,7 +9,7 @@
 | -------------- | ---- | ------- | ------- | -------- | --------- | --------- | ----- |
 | rating         | ~149 | 150~399 | 400~799 | 800~1199 | 1200~1599 | 1600~1999 | 2000~ |
 
-2022/07/12 25/90
+2022/07/16 28/90
 
 - [ ] 001 Yokan Party（★4）
 - [x] 002 Encyclopedia of Parentheses（★3）
@@ -86,7 +86,7 @@
 - [ ] 073 We Need Both a and b（★5）
 - [ ] 074 ABC String 2（★6）
 - [x] 075 Magic For Balls（★3）
-- [ ] 076 Cake Cut（★3）
+- [x] 076 Cake Cut（★3）
 - [ ] 077 Planes on a 2D Plane（★7）
 - [x] 078 Easy Graph Problem（★2）
 - [ ] 079 Two by Two（★3）
