@@ -33,6 +33,25 @@ def rle(string):
     return rle_list
 
 
+def boyer_moore(txt, pat):
+    N, M = len(txt), len(pat)
+
+    skip = defaultdict(lambda: M)
+    for i, s in enumerate(pat, start=1):
+        skip[s] = M - i
+
+    idx = M - 1
+    while idx < N:
+        for j, s in enumerate(pat[::-1]):
+            t = txt[idx - j]
+            if t != s:
+                idx += skip[t]
+                break
+        else:
+            return idx - M + 1
+    return -1
+
+
 class UnionFind:
     """Union Find Algorithm
     参考: https://note.nkmk.me/python-union-find/
