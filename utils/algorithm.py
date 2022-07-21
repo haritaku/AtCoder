@@ -52,6 +52,16 @@ def boyer_moore(txt, pat):
     return -1
 
 
+def binary_search(ng, ok, check):
+    while abs(ok - ng) > 1:
+        mid = (ng + ok) // 2
+        if check(mid):
+            ok = mid
+        else:
+            ng = mid
+    return ok
+
+
 class UnionFind:
     """Union Find Algorithm
     参考: https://note.nkmk.me/python-union-find/
