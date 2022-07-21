@@ -9,7 +9,12 @@
       "id": "typical90_a",
       "label": "001",
       "title": "Yokan Party（★4）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_a"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_a",
+      "directory": {
+        "path": "001",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "typical90_b",
