@@ -31,7 +31,12 @@
       "id": "typical90_c",
       "label": "003",
       "title": "Longest Circular Road（★4）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_c"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_c",
+      "directory": {
+        "path": "003",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "typical90_d",

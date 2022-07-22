@@ -9,11 +9,11 @@
 | -------------- | ---- | ------- | ------- | -------- | --------- | --------- | ----- |
 | rating         | ~149 | 150~399 | 400~799 | 800~1199 | 1200~1599 | 1600~1999 | 2000~ |
 
-2022/07/21 32/90
+2022/07/22 33/90
 
 - [x] 001 Yokan Party（★4）
 - [x] 002 Encyclopedia of Parentheses（★3）
-- [ ] 003 Longest Circular Road（★4）
+- [x] 003 Longest Circular Road（★4）
 - [x] 004 Cross Sum（★2）
 - [ ] 005 Restricted Digits（★7）
 - [ ] 006 Smallest Subsequence（★5）
