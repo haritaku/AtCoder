@@ -1,31 +1,23 @@
 import sys
+from itertools import permutations
 
 input = sys.stdin.readline
-INF = 10**18
 
 N = int(input())
 A = [list(map(int, input().split())) for _ in range(N)]
 M = int(input())
-XY = [list(map(int, input().split())) for _ in range(M)]
-ref = [[True] * N for _ in range(N)]
-for x, y in XY:
-    ref[x - 1][y - 1] = False
-    ref[y - 1][x - 1] = False
+XY = [set(list(map(int, input().split()))) for _ in range(M)]
 
-dp = [[INF] * N for _ in range(1 << N)]
-for i in range(N):
-    dp[0][i] = 0
+ans = 200_000
+for order in permutations(range(N), N):
+    time = 0
+    for sec, player in enumerate(order):
+        if sec != N - 1 and {player + 1, order[sec + 1] + 1} in XY:
+            time = None
+            break
+        time += A[player][sec]
 
-for s in range(1 << N):
-    for v in range(N):
-        if s & (1 << v) == 0:
-            continue
-        cnt = bin(s).count("1")
-        s_before = s ^ (1 << v)
+    if time is not None:
+        ans = min(time, ans)
 
-        for u in range(N):
-            if ref[v][u]:
-                dp[s][v] = min(dp[s][v], dp[s_before][u] + A[v][cnt - 1])
-
-ans = min(dp[-1])
-print(-1 if ans == INF else ans)
+print("-1") if ans == 200_000 else print(ans)
