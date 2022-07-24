@@ -27,7 +27,7 @@
 	"INF": {
 		"scope": "python",
 		"prefix": "INF",
-		"body": "INF = 10 ** 18"
+		"body": "INF = 10**18"
 	},
 	"MOD": {
 		"scope": "python",
