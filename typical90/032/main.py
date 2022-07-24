@@ -12,6 +12,8 @@ ok = [[True] * N for _ in range(N)]
 for x, y in XY:
     ok[x - 1][y - 1] = False
     ok[y - 1][x - 1] = False
+for i in range(N):
+    ok[i][i] = False
 
 dp = [[INF] * N for _ in range(1 << N)]
 for i in range(N):
@@ -25,7 +27,7 @@ for s in range(1 << N):
         s_before = s ^ (1 << v)
 
         for u in range(N):
-            if s_before == 0 or (ok[v][u] and u != v):
+            if s_before == 0 or ok[v][u]:
                 dp[s][v] = min(dp[s][v], dp[s_before][u] + A[v][cnt - 1])
 
 ans = min(dp[-1])
