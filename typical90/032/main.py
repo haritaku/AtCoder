@@ -7,10 +7,11 @@ N = int(input())
 A = [list(map(int, input().split())) for _ in range(N)]
 M = int(input())
 XY = [list(map(int, input().split())) for _ in range(M)]
-ref = [[True] * N for _ in range(N)]
+
+ok = [[True] * N for _ in range(N)]
 for x, y in XY:
-    ref[x - 1][y - 1] = False
-    ref[y - 1][x - 1] = False
+    ok[x - 1][y - 1] = False
+    ok[y - 1][x - 1] = False
 
 dp = [[INF] * N for _ in range(1 << N)]
 for i in range(N):
@@ -24,7 +25,7 @@ for s in range(1 << N):
         s_before = s ^ (1 << v)
 
         for u in range(N):
-            if ref[v][u]:
+            if s_before == 0 or (ok[v][u] and u != v):
                 dp[s][v] = min(dp[s][v], dp[s_before][u] + A[v][cnt - 1])
 
 ans = min(dp[-1])
