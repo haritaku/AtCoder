@@ -34,4 +34,9 @@
 		"prefix": "MOD",
 		"body": "MOD = 10**9 + 7"
 	},
+	"recursion limit": {
+		"scope": "python",
+		"prefix": "reclimit",
+		"body": "sys.setrecursionlimit(10**7)"
+	},
 }
