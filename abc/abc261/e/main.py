@@ -1,12 +1,12 @@
 import sys
-from operator import and_, or_, xor
+from operator import iand, ior, ixor
 
 input = sys.stdin.readline
 
 N, C = map(int, input().split())
 TA = [list(map(int, input().split())) for _ in range(N)]
 
-ref = {1: and_, 2: or_, 3: xor}
+ref = {1: iand, 2: ior, 3: ixor}
 
 ans = [0] * N
 for i in range(30):
