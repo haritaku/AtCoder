@@ -9,7 +9,7 @@
 | -------------- | ---- | ------- | ------- | -------- | --------- | --------- | ----- |
 | rating         | ~149 | 150~399 | 400~799 | 800~1199 | 1200~1599 | 1600~1999 | 2000~ |
 
-2022/07/22 33/90
+2022/07/27 34/90
 
 - [x] 001 Yokan Party（★4）
 - [x] 002 Encyclopedia of Parentheses（★3）
@@ -18,7 +18,7 @@
 - [ ] 005 Restricted Digits（★7）
 - [ ] 006 Smallest Subsequence（★5）
 - [x] 007 CP Classes（★3）
-- [ ] 008 AtCounter（★4）
+- [x] 008 AtCounter（★4）
 - [ ] 009 Three Point Angle（★6）
 - [x] 010 Score Sum Queries（★2）
 - [ ] 011 Gravy Jobs（★6）
