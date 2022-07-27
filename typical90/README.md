@@ -9,7 +9,7 @@
 | -------------- | ---- | ------- | ------- | -------- | --------- | --------- | ----- |
 | rating         | ~149 | 150~399 | 400~799 | 800~1199 | 1200~1599 | 1600~1999 | 2000~ |
 
-2022/07/27 34/90
+2022/07/27 35/90
 
 - [x] 001 Yokan Party（★4）
 - [x] 002 Encyclopedia of Parentheses（★3）
@@ -22,7 +22,7 @@
 - [ ] 009 Three Point Angle（★6）
 - [x] 010 Score Sum Queries（★2）
 - [ ] 011 Gravy Jobs（★6）
-- [ ] 012 Red Painting（★4）
+- [x] 012 Red Painting（★4）
 - [ ] 013 Passing（★5）
 - [x] 014 We Used to Sing a Song Together（★3）
 - [ ] 015 Don't be too close（★6）
