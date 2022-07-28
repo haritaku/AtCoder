@@ -6,19 +6,20 @@ input = sys.stdin.readline
 N, C = map(int, input().split())
 TA = [list(map(int, input().split())) for _ in range(N)]
 
-ref = {1: iand, 2: ior, 3: ixor}
+opes = {1: iand, 2: ior, 3: ixor}
 
 ans = [0] * N
 for i in range(30):
-    ope = [0, 1]
-    x = 1 if C & (1 << i) else 0
+    comp_func = [0, 1]
+    x = C >> i & 1
     for j, (t, a) in enumerate(TA):
-        a = 1 if a & (1 << i) else 0
+        a = a >> i & 1
 
-        ope[0] = ref[t](ope[0], a)
-        ope[1] = ref[t](ope[1], a)
+        ope = opes[t]
+        comp_func[0] = ope(comp_func[0], a)
+        comp_func[1] = ope(comp_func[1], a)
 
-        ans[j] += ope[x] << i
-        x = ope[x]
+        ans[j] += comp_func[x] << i
+        x = comp_func[x]
 
 print(*ans, sep="\n")
