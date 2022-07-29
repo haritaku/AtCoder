@@ -9,7 +9,7 @@
 | -------------- | ---- | ------- | ------- | -------- | --------- | --------- | ----- |
 | rating         | ~149 | 150~399 | 400~799 | 800~1199 | 1200~1599 | 1600~1999 | 2000~ |
 
-2022/07/27 35/90
+2022/07/28 36/90
 
 - [x] 001 Yokan Party（★4）
 - [x] 002 Encyclopedia of Parentheses（★3）
@@ -36,7 +36,7 @@
 - [ ] 023 Avoid War（★7）
 - [x] 024 Select +／- One（★2）
 - [ ] 025 Digit Product Equation（★7）
-- [ ] 026 Independent Set on a Tree（★4）
+- [x] 026 Independent Set on a Tree（★4）
 - [x] 027 Sign Up Requests （★2）
 - [ ] 028 Cluttered Paper（★4）
 - [ ] 029 Long Bricks（★5）
