@@ -12,9 +12,8 @@ for c, y in CY:
 dp = [0] * (N + 1)
 for i, x in enumerate(X, start=1):
     tmp = max(dp)
-    for j in range(N, 0, -1):
-        if j <= i:
-            dp[j] = dp[j - 1] + x + ref[j]
+    for j in range(i, 0, -1):
+        dp[j] = dp[j - 1] + x + ref[j]
     dp[0] = tmp
 
 print(max(dp))
