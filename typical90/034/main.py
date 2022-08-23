@@ -17,9 +17,9 @@ for a in a_list:
         kind += 1
 
     while q and kind > K:
-        val = q.popleft()
-        d[val] -= 1
-        if d[val] == 0:
+        rm = q.popleft()
+        d[rm] -= 1
+        if d[rm] == 0:
             kind -= 1
     ans = max(ans, len(q))
 
