@@ -360,7 +360,12 @@
       "id": "typical90_ap",
       "label": "042",
       "title": "Multiple of 9（★4）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ap"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ap",
+      "directory": {
+        "path": "042",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "typical90_aq",

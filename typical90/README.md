@@ -9,7 +9,7 @@
 | -------------- | ---- | ------- | ------- | -------- | --------- | --------- | ----- |
 | rating         | ~149 | 150~399 | 400~799 | 800~1199 | 1200~1599 | 1600~1999 | 2000~ |
 
-2022/08/23 38/90
+2022/08/25 39/90
 
 - [x] 001 Yokan Party（★4）
 - [x] 002 Encyclopedia of Parentheses（★3）
@@ -52,7 +52,7 @@
 - [ ] 039 Tree Distance（★5）
 - [ ] 040 Get More Money（★7）
 - [ ] 041 Piles in AtCoder Farm（★7）
-- [ ] 042 Multiple of 9（★4）
+- [x] 042 Multiple of 9（★4）
 - [ ] 043 Maze Challenge with Lack of Sleep（★4）
 - [x] 044 Shift and Swapping（★3）
 - [x] 045 Simple Grouping（★6）
